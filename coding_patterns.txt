@@ -1,0 +1,9 @@
+Coding Interview Patterns:
+
+- Sliding Window
+- Two Pointers
+- Recursion
+- Dynamic Programming
+- Graph Traversal
+
+Focus on recognizing patterns quickly.

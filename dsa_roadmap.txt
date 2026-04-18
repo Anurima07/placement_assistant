@@ -1,0 +1,23 @@
+DSA Roadmap for Placements:
+
+Step 1: Basics
+- Arrays
+- Strings
+- Recursion
+
+Step 2: Intermediate
+- Linked List
+- Stack
+- Queue
+- Hashing
+
+Step 3: Advanced
+- Trees
+- Graphs
+- Dynamic Programming
+
+Practice:
+- LeetCode
+- CodeStudio
+
+Daily: 2-3 problems

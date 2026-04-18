@@ -1,0 +1,13 @@
+Resume Tips for Freshers:
+
+- Keep it 1 page
+- Highlight projects
+- Use bullet points
+- Mention skills clearly
+- Avoid fake experience
+
+Sections:
+- Summary
+- Skills
+- Projects
+- Education
