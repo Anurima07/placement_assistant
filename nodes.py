@@ -10,7 +10,7 @@ from tools import jd_analyzer
 from groq import Groq
 
 # 🔥 PUT YOUR GROQ API KEY HERE
-client = Groq(api_key="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")
+client = Groq(api_key="your_api_key_here")
 
 # Load vector DB
 embedding = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
